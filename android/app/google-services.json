@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266439129607",
+    "project_id": "plan-project-aa54d",
+    "storage_bucket": "plan-project-aa54d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266439129607:android:2c05ed1143e7bcee04c8a2",
+        "android_client_info": {
+          "package_name": "com.dhysolutios.plan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSSmn660wC2ItVOyOtMTTXp0tq3ko0-DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
